@@ -1,7 +1,7 @@
 # profilephotowebscraping
 
 ## purpose: 
-to create a web scraping app to get 500 profile's photos and download them
+create a web scraping app in order get 500+ profile's photos and download them
 
 ## tools: node.js, cheerio.js, axios
 
